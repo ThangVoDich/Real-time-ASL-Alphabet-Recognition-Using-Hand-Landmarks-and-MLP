@@ -1,0 +1,2 @@
+# Real-time-ASL-Alphabet-Recognition-Using-Hand-Landmarks-and-MLP
+This project implements a real-time American Sign Language (ASL) alphabet recognition system using hand landmarks extracted from a webcam feed and a lightweight Multi-Layer Perceptron (MLP) classifier.  Instead of processing raw images, the system relies on geometric hand keypoints, resulting in a fast and efficient pipeline suitable for real-time
