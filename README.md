@@ -1,5 +1,5 @@
 # Real-time ASL Alphabet Recognition Using Hand Landmarks and MLP
- #Overview
+ ## Overview
 
 This project implements a real-time American Sign Language (ASL) alphabet recognition system using hand landmarks extracted by MediaPipe and a lightweight Multi-Layer Perceptron (MLP) classifier.
 
